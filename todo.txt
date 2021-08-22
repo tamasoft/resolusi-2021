@@ -1,3 +1,4 @@
 Tamasoft ToDo List
 - Konsisten membuat konten 2x seminggu
 - Membuat platform untuk WA Automation
+- Kolaborasi dengan lebih banyak expert
